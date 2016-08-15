@@ -34,7 +34,7 @@ DebuggerAttachmentDetector.enable(10,function(){
 Disable detection.
 
 ```javascript
-DebuggerAttachmentDetector.enable(10,function(){
+DebuggerAttachmentDetector.disable(function(){
   console.log("detection deactivated")
 },function(){
   console.log("can't deactivate detector");
