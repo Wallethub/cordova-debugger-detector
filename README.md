@@ -1,7 +1,7 @@
 DebuggerAttachmentDetector
 ===========================
 
-Cordova / Phonegap plugin for detecting debugger attachment while the app is running.
+Cordova / Phonegap plugin for detecting debugger attachment.
 
 ## Supported Platforms
 
