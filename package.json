@@ -1,0 +1,21 @@
+{
+    "name": "cordova-debugger-detector",
+    "version": "1.0.3",
+    "description": "Cordova Debugger Detector for ios",
+    "cordova": {
+      "id": "cordova-debugger-detector",
+      "platforms": [
+        "ios"
+      ]
+    },
+    "keywords": [
+      "ecosystem:cordova",
+      "cordova-android",
+      "cordova-ios"
+    ],
+    "author": "WalletHub",
+    "license": "ISC",
+    "repository": {
+    }
+  }
+  
